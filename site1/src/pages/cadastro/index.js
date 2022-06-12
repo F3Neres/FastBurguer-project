@@ -73,18 +73,17 @@ export default function index() {
                         </div>
 
                         <div class="boxes">
-                            <h2 class="subt1">Data Cadastro *</h2>                    
-                            <input class="select-box date" type="date" name="" id=""/>
-                        
-
+                        <h2 class="subt1">Nome cliente *</h2>                    
+                        <input class="select-box text" type="text" name="" id=""/>
+                    
                         </div>
                     </div>
 
                     <div class="right-buttons">
 
-                        <button class="buttons-cadastro">Novo Cadastro</button>
-                        <button class="buttons-cadastro">Editar</button>
-                        <button class="buttons-cadastro end">Registrar</button>
+                    <button class="buttons-cadastro">Registrar</button>
+                    <h2 class="subt1">Data Cadastro *</h2>                    
+                    <input class="select-box date" type="date" name="" id=""/>
                 
                     </div>
 

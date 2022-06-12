@@ -15,8 +15,8 @@
     }
     
     .logo{
-        margin-top: 15px;
-        height: 8em;
+        margin-top: 1em;
+        margin-left: 5em;
     }
     
     .menu-right{
@@ -55,7 +55,7 @@
     
     .subt1{
         color: #ffffff;
-        font-size: 2em;
+        font-size: 1.5em;
         margin: 0.5em;
     }
     
@@ -116,6 +116,11 @@
         height: 3em;
         cursor: pointer;
     }
+
+    .text{
+        width: 25em;
+        font-size: 1em;
+    }
     
     .date{
         padding: 0.5em;
@@ -139,6 +144,7 @@
         border-radius: 1em;
         text-align: center;
         margin-top: 1em;
+        margin-bottom: 2em;
         font-size: 1.5em;
         cursor: pointer;
     }
